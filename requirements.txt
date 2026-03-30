@@ -1,8 +1,0 @@
-torch
-pandas
-numpy
-transformers
-scikit-learn
-tqdm
-evaluate
-datasets
